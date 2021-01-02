@@ -12,7 +12,7 @@ class Solution:
 
         w1 = self.dp(A, i+1, dp)
         w2 = 0
-        if i < len(A) - 1 and int(A[i:i+2]) <= 26 and int(A[i:i+2]) >= 0:
+        if i < len(A) - 1 and int(A[i:i+2]) <= 26 and int(A[i:i+2]) > 0:
             w2 = self.dp(A, i+2, dp)
 
         dp[i] = w1 + w2
