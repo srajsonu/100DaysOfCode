@@ -1,4 +1,9 @@
 class Solution:
+    def dp(self, A, i, dp):
+        if i == len(A):
+            return
+
+        take = self.dp(A)
     def solve(self, A):
         pass
 
