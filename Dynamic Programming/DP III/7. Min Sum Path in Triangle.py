@@ -1,12 +1,18 @@
 class Solution:
     def dp(self, A, i, j, dp):
-        m = len(A)
-        n = len(A[i])
-        ans = float('inf')
-        if i >= m and j >= n or j < 0:
-            ans = float('inf')
+        global ans
+        if dp[i][j] != float('inf'):
+            return dp[i][j]
+
+        if i == len(A) or j == len(A[i]):
+            return float('inf')
+
+        if i == len(A)-1:
+            ans = 1
         else:
             ans = min(self.dp(A, i+1, j, dp), self.dp(A, i+1, j+1, dp)) + A[i][j]
+
+        dp[i][j] = ans
         return ans
 
     def minimumTotal(self, A):
