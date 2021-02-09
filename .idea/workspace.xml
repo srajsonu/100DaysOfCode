@@ -11,17 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/1. Insertion Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/2. Bubble Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/3. Merge Overlapping Intervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/4. Largest Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/5. INVERSIONS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/5. Merge Two Sorted Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/1. merge sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/2. Quick sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/3. Radix Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/4. Count Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/8. Sum the Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting I/9. Flight Range Bookings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/5. Count of smaller numbers after self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/6. Reverse pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/7. Gcd Ordering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/8. Bus and Passenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting II/9. Inversion count in an array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/Sorting I/7. Triplets with Sum between given range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/Sorting I/7. Triplets with Sum between given range.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +53,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.5. INVERSIONS">
-    <configuration name="1. merge sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.7. Gcd Ordering">
+    <configuration name="5. Count of smaller numbers after self" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +67,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting II/1. merge sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting II/5. Count of smaller numbers after self.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Quick sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6. Reverse pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting II/2. Quick sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting II/6. Reverse pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +98,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Merge Overlapping Intervals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7. Gcd Ordering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scaler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting/Sorting II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting II/7. Gcd Ordering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8. Sum the Difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +133,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting I/3. Merge Overlapping Intervals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting I/8. Sum the Difference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Largest Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9. Inversion count in an array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,34 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting/Sorting I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting/Sorting II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting I/4. Largest Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5. INVERSIONS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Scaler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting/Sorting I" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting I/5. INVERSIONS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Sorting II/9. Inversion count in an array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5. INVERSIONS" />
-        <item itemvalue="Python.4. Largest Number" />
-        <item itemvalue="Python.1. merge sort" />
-        <item itemvalue="Python.3. Merge Overlapping Intervals" />
-        <item itemvalue="Python.2. Quick sort" />
+        <item itemvalue="Python.7. Gcd Ordering" />
+        <item itemvalue="Python.6. Reverse pairs" />
+        <item itemvalue="Python.5. Count of smaller numbers after self" />
+        <item itemvalue="Python.8. Sum the Difference" />
+        <item itemvalue="Python.9. Inversion count in an array" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +260,8 @@
       <workItem from="1612500368561" duration="23509000" />
       <workItem from="1612588797860" duration="2536000" />
       <workItem from="1612704169717" duration="4306000" />
-      <workItem from="1612760063652" duration="10949000" />
+      <workItem from="1612760063652" duration="11134000" />
+      <workItem from="1612843880822" duration="8999000" />
     </task>
     <servers />
   </component>
@@ -285,10 +284,12 @@
     <SUITE FILE_PATH="coverage/Scaler$2__Palindromic_Beauty.coverage" NAME="2. Palindromic Beauty Coverage Results" MODIFIED="1612091533493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
     <SUITE FILE_PATH="coverage/Scaler$4__Flip_Array.coverage" NAME="4. Flip Array Coverage Results" MODIFIED="1611248413578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$5__Painter_s_Partition_Problem.coverage" NAME="5. Painter's Partition Problem Coverage Results" MODIFIED="1612520068769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
+    <SUITE FILE_PATH="coverage/Scaler$9__Flight_Range_Bookings.coverage" NAME="9. Flight Range Bookings Coverage Results" MODIFIED="1612849277310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Let_s_Party.coverage" NAME="4. Let's Party Coverage Results" MODIFIED="1609248526626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$11__Maximum_Sum.coverage" NAME="11. Maximum Sum Coverage Results" MODIFIED="1609677458806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$2__Favourite_Teacher.coverage" NAME="2. Favourite Teacher Coverage Results" MODIFIED="1611584448055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VII (Bitmask)" />
     <SUITE FILE_PATH="coverage/Scaler$4__Count_Sort.coverage" NAME="4. Count Sort Coverage Results" MODIFIED="1612763347815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
+    <SUITE FILE_PATH="coverage/Scaler$6__Reverse_pairs.coverage" NAME="6. Reverse pairs Coverage Results" MODIFIED="1612883352292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
     <SUITE FILE_PATH="coverage/Scaler$8__Minimum_Difference.coverage" NAME="8. Minimum Difference Coverage Results" MODIFIED="1612539011831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Equal_Average_Partition.coverage" NAME="1. Equal Average Partition Coverage Results" MODIFIED="1610291941702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$6__Longest_Palindromic_Subsequence.coverage" NAME="6. Longest Palindromic Subsequence Coverage Results" MODIFIED="1609494905170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
@@ -297,13 +298,16 @@
     <SUITE FILE_PATH="coverage/Scaler$Unittests_in_new_py.coverage" NAME="Unittests in new.py Coverage Results" MODIFIED="1612544434769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$5__Max_Sum_Path_in_Binary_Tree.coverage" NAME="5. Max Sum Path in Binary Tree Coverage Results" MODIFIED="1610784828407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
     <SUITE FILE_PATH="coverage/Scaler$8__Coin_Sum_Infinite.coverage" NAME="8. Coin Sum Infinite Coverage Results" MODIFIED="1610560234061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
+    <SUITE FILE_PATH="coverage/Scaler$7__Gcd_Ordering.coverage" NAME="7. Gcd Ordering Coverage Results" MODIFIED="1612886907102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
     <SUITE FILE_PATH="coverage/Scaler$6__Dungeon_Princess.coverage" NAME="6. Dungeon Princess Coverage Results" MODIFIED="1610456762193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$Seive.coverage" NAME="Seive Coverage Results" MODIFIED="1611742965979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VIII (BITMASK-II)" />
+    <SUITE FILE_PATH="coverage/Scaler$8__Sum_the_Difference.coverage" NAME="8. Sum the Difference Coverage Results" MODIFIED="1612864320005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Largest_Number.coverage" NAME="4. Largest Number Coverage Results" MODIFIED="1612805562212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Non_Zero_Digits.coverage" NAME="1. Non Zero Digits Coverage Results" MODIFIED="1612089057415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
     <SUITE FILE_PATH="coverage/Scaler$7__Min_Sum_Path_in_Triangle.coverage" NAME="7. Min Sum Path in Triangle Coverage Results" MODIFIED="1610557781159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$5__INVERSIONS.coverage" NAME="5. INVERSIONS Coverage Results" MODIFIED="1612809851935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$6__DISTINCT_SUBSEQUENCES.coverage" NAME="6. DISTINCT SUBSEQUENCES Coverage Results" MODIFIED="1611164663642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
+    <SUITE FILE_PATH="coverage/Scaler$7__Triplets_with_Sum_between_given_range.coverage" NAME="7. Triplets with Sum between given range Coverage Results" MODIFIED="1612847125786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Edit_Distance.coverage" NAME="4. Edit Distance Coverage Results" MODIFIED="1609485633027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Stairs.coverage" NAME="1. Stairs Coverage Results" MODIFIED="1609215444134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$3__Word_break.coverage" NAME="3. Word break Coverage Results" MODIFIED="1611065250660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
@@ -325,6 +329,7 @@
     <SUITE FILE_PATH="coverage/Scaler$5__Longest_Common_Subsequence.coverage" NAME="5. Longest Common Subsequence Coverage Results" MODIFIED="1609491224470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$7__Search_for_a_Range.coverage" NAME="7. Search for a Range Coverage Results" MODIFIED="1612524888503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
     <SUITE FILE_PATH="coverage/Scaler$3__Min_Sum_Path_in_Matrix.coverage" NAME="3. Min Sum Path in Matrix Coverage Results" MODIFIED="1609436824023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
+    <SUITE FILE_PATH="coverage/Scaler$5__Count_of_smaller_numbers_after_self.coverage" NAME="5. Count of smaller numbers after self Coverage Results" MODIFIED="1612873818901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
     <SUITE FILE_PATH="coverage/Scaler$2__Min_Jumps_Array.coverage" NAME="2. Min Jumps Array Coverage Results" MODIFIED="1609260955697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Remove_trees.coverage" NAME="1. Remove trees Coverage Results" MODIFIED="1610629169088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
     <SUITE FILE_PATH="coverage/Scaler$3__Best_Time_to_Buy_and_Sell_Stocks_I.coverage" NAME="3. Best Time to Buy and Sell Stocks I Coverage Results" MODIFIED="1611334145241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VI" />
@@ -357,6 +362,7 @@
     <SUITE FILE_PATH="coverage/Scaler$test.coverage" NAME="test Coverage Results" MODIFIED="1610475150753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$1__word_break.coverage" NAME="1. word break Coverage Results" MODIFIED="1610958156036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
     <SUITE FILE_PATH="coverage/Scaler$repeat.coverage" NAME="repeat Coverage Results" MODIFIED="1612435225077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
+    <SUITE FILE_PATH="coverage/Scaler$9__Inversion_count_in_an_array.coverage" NAME="9. Inversion count in an array Coverage Results" MODIFIED="1612850539719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Aggressive_cows.coverage" NAME="1. Aggressive cows Coverage Results" MODIFIED="1612501835620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
     <SUITE FILE_PATH="coverage/Scaler$4__Rotated_Sorted_Array_Search.coverage" NAME="4. Rotated Sorted Array Search Coverage Results" MODIFIED="1612445285411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$3__Repeating_Subsequence.coverage" NAME="3. Repeating Subsequence Coverage Results" MODIFIED="1610699237019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
