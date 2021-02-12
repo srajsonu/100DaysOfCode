@@ -11,21 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/1. Sub-array with 0 sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/10. Find pairs in array whose sum is already present.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/2. Largest Continuous Sequence Zero Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/3. Longest Consecutive Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/4. Equal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/5. Parity Queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/6. Longest Subarray Sum B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/7. Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/8. Valid Sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing I/9. Set Matrix Zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing II/1. Hashing + Strings/1. Palindrome Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing II/2. Hashing + Sliding Window/1. Longest Substring Without Repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing II/2. Hashing + Sliding Window/2. Window String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing II/3. Hashing + Maths/1. Points on same line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Hashing II/3. Hashing + Maths/2. Count Right Triangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList I/1. Remove Nth Node from List End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList I/2. List Cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList I/4. K reverse linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList I/5. Reverse Link List II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList I/6. Palindrome List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList I/7. Middle element of linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/1. Clone a Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/2. Longest Palindromic List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/3. Flatten a linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/4. Palindrome List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/5. Partition List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/6. Add Two Numbers as Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList II/7. Merge Two Sorted Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,7 +268,8 @@
       <workItem from="1612760063652" duration="11134000" />
       <workItem from="1612843880822" duration="9030000" />
       <workItem from="1612933521078" duration="14553000" />
-      <workItem from="1613019243108" duration="16116000" />
+      <workItem from="1613019243108" duration="16254000" />
+      <workItem from="1613105579868" duration="6286000" />
     </task>
     <servers />
   </component>
