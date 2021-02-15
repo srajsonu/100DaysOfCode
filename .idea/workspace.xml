@@ -11,13 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/1. Inorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/2. Postorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/3. Binary Tree From Inorder And Postorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/5. Balanced Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/6. Preorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/7. ZigZag Level Order Traversal BT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees I/8. Binary Tree From Inorder And Preorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/1. Least Common Ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/2. Populate Next Right Pointers Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/3. Path Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/4. Root to Leaf Paths With Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/5. Left view of binary tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/6. Right view of Binary tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees II/7. Max Sum Path in Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/2. Inorder Traversal of Cartesian Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/3. Flatten Binary Tree to Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/4. Symmetric Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +61,8 @@
       <recent name="$PROJECT_DIR$/Stacks/Stacks I" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6. Longest valid Parentheses">
-    <configuration name="1. Rain Water Trapped" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1. Least Common Ancestor">
+    <configuration name="1. Least Common Ancestor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,12 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks/Stacks &amp; Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks/Stacks &amp; Queues/1. Rain Water Trapped.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees II/1. Least Common Ancestor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Gas Station" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +92,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks/Stacks &amp; Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks/Stacks &amp; Queues/4. Gas Station.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees II/3. Path Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4. Root to Leaf Paths With Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scaler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees II/4. Root to Leaf Paths With Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,28 +172,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8. kth character in double decrypted string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Scaler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks/Stacks II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks/Stacks II/8. kth character in double decrypted string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1. Least Common Ancestor" />
+        <item itemvalue="Python.4. Root to Leaf Paths With Sum" />
+        <item itemvalue="Python.3. Path Sum" />
         <item itemvalue="Python.6. Longest valid Parentheses" />
         <item itemvalue="Python.5. Sliding Window Maximum" />
-        <item itemvalue="Python.4. Gas Station" />
-        <item itemvalue="Python.1. Rain Water Trapped" />
-        <item itemvalue="Python.8. kth character in double decrypted string" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +274,8 @@
       <workItem from="1613019243108" duration="16254000" />
       <workItem from="1613105579868" duration="6806000" />
       <workItem from="1613193821762" duration="17837000" />
-      <workItem from="1613279785433" duration="15737000" />
+      <workItem from="1613279785433" duration="16216000" />
+      <workItem from="1613368699495" duration="6078000" />
     </task>
     <servers />
   </component>
@@ -292,6 +296,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Scaler$2__Palindromic_Beauty.coverage" NAME="2. Palindromic Beauty Coverage Results" MODIFIED="1612091533493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
+    <SUITE FILE_PATH="coverage/Scaler$4__Root_to_Leaf_Paths_With_Sum.coverage" NAME="4. Root to Leaf Paths With Sum Coverage Results" MODIFIED="1613376454589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees II" />
     <SUITE FILE_PATH="coverage/Scaler$8__kth_character_in_double_decrypted_string.coverage" NAME="8. kth character in double decrypted string Coverage Results" MODIFIED="1613305142653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Count_of_pairs_with_the_given_sum.coverage" NAME="1. Count of pairs with the given sum Coverage Results" MODIFIED="1612933788362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Pointer" />
     <SUITE FILE_PATH="coverage/Scaler$4__Let_s_Party.coverage" NAME="4. Let's Party Coverage Results" MODIFIED="1609248526626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
@@ -339,6 +344,7 @@
     <SUITE FILE_PATH="coverage/Scaler$7__Maximum_height_of_staircase.coverage" NAME="7. Maximum height of staircase Coverage Results" MODIFIED="1612535444632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Insertion_Sort.coverage" NAME="1. Insertion Sort Coverage Results" MODIFIED="1612543231804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Keys_of_Harmony_.coverage" NAME="1. Keys of Harmony! Coverage Results" MODIFIED="1611760643173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VIII (BITMASK-II)" />
+    <SUITE FILE_PATH="coverage/Scaler$3__Path_Sum.coverage" NAME="3. Path Sum Coverage Results" MODIFIED="1613376187306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Unique_Paths_in_a_Grid.coverage" NAME="1. Unique Paths in a Grid Coverage Results" MODIFIED="1609411216221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$4__Max_Rectangle_in_Binary_Matrix.coverage" NAME="4. Max Rectangle in Binary Matrix Coverage Results" MODIFIED="1610780731936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
     <SUITE FILE_PATH="coverage/Scaler$8__Max_Sum_Contiguous_Subarray.coverage" NAME="8. Max Sum Contiguous Subarray Coverage Results" MODIFIED="1610796632612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
@@ -351,6 +357,7 @@
     <SUITE FILE_PATH="coverage/Scaler$6__Longest_Subarray_Sum_B.coverage" NAME="6. Longest Subarray Sum B Coverage Results" MODIFIED="1613032068661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Rotated_Sorted_Array_Search.coverage" NAME="4. Rotated Sorted Array Search Coverage Results" MODIFIED="1612445285411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Array_Quadruplet.coverage" NAME="1. Array Quadruplet Coverage Results" MODIFIED="1612962767236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pramp" />
+    <SUITE FILE_PATH="coverage/Scaler$1__Least_Common_Ancestor.coverage" NAME="1. Least Common Ancestor Coverage Results" MODIFIED="1613377413911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees II" />
     <SUITE FILE_PATH="coverage/Scaler$4__Flip_Array.coverage" NAME="4. Flip Array Coverage Results" MODIFIED="1611248413578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$5__Painter_s_Partition_Problem.coverage" NAME="5. Painter's Partition Problem Coverage Results" MODIFIED="1612520068769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
     <SUITE FILE_PATH="coverage/Scaler$9__Flight_Range_Bookings.coverage" NAME="9. Flight Range Bookings Coverage Results" MODIFIED="1612849277310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
