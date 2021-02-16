@@ -11,16 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/1. Least Common Ancestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/2. Populate Next Right Pointers Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/3. Path Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/4. Root to Leaf Paths With Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/5. Left view of binary tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/6. Right view of Binary tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees II/7. Max Sum Path in Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/2. Inorder Traversal of Cartesian Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/3. Flatten Binary Tree to Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/4. Symmetric Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/1. BST Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/10. Valid Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/11. Counting the Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/5. K DISTANCE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/6. Vertex Cover Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/7. Maximum Weight Edge Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -275,7 +271,8 @@
       <workItem from="1613105579868" duration="6806000" />
       <workItem from="1613193821762" duration="17837000" />
       <workItem from="1613279785433" duration="16216000" />
-      <workItem from="1613368699495" duration="6078000" />
+      <workItem from="1613368699495" duration="6290000" />
+      <workItem from="1613454435275" duration="3816000" />
     </task>
     <servers />
   </component>
@@ -357,7 +354,7 @@
     <SUITE FILE_PATH="coverage/Scaler$6__Longest_Subarray_Sum_B.coverage" NAME="6. Longest Subarray Sum B Coverage Results" MODIFIED="1613032068661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Rotated_Sorted_Array_Search.coverage" NAME="4. Rotated Sorted Array Search Coverage Results" MODIFIED="1612445285411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Array_Quadruplet.coverage" NAME="1. Array Quadruplet Coverage Results" MODIFIED="1612962767236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pramp" />
-    <SUITE FILE_PATH="coverage/Scaler$1__Least_Common_Ancestor.coverage" NAME="1. Least Common Ancestor Coverage Results" MODIFIED="1613377413911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees II" />
+    <SUITE FILE_PATH="coverage/Scaler$1__Least_Common_Ancestor.coverage" NAME="1. Least Common Ancestor Coverage Results" MODIFIED="1613497925789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees II" />
     <SUITE FILE_PATH="coverage/Scaler$4__Flip_Array.coverage" NAME="4. Flip Array Coverage Results" MODIFIED="1611248413578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$5__Painter_s_Partition_Problem.coverage" NAME="5. Painter's Partition Problem Coverage Results" MODIFIED="1612520068769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
     <SUITE FILE_PATH="coverage/Scaler$9__Flight_Range_Bookings.coverage" NAME="9. Flight Range Bookings Coverage Results" MODIFIED="1612849277310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
