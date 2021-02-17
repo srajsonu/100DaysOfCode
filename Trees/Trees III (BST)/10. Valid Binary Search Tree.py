@@ -6,13 +6,13 @@ class BST:
 
 class Solution:
     def check(self, root):
-        curr = BST()
         if not root:
-            return curr
+            return BST()
 
         l = self.check(root.left)
         r = self.check(root.right)
 
+        curr = BST()
         curr.min = min(root.val, l.min)
         curr.max = max(root.val, r.max)
 
