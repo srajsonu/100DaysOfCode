@@ -11,13 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/8. Node distance C in binary tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/9. Count Bigger Ancestors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees IV/1. Longest Consecutive Subtree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees IV/2. Boundary Traversal Of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/Trees IV/3. K DISTANCE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph I/1. Rotten Oranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph I/2. Capture Regions on Board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph I/3. Distance of nearest cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph I/4. Black Shapes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/Trees III (BST)/10. Valid Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Trees III (BST)/10. Valid Binary Search Tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,29 +55,7 @@
       <recent name="$PROJECT_DIR$/Stacks/Stacks I" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Longest Consecutive Subtree">
-    <configuration name="1. Least Common Ancestor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Scaler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees II/1. Least Common Ancestor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4. Black Shapes">
     <configuration name="1. Longest Consecutive Subtree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Rotten Oranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees II/3. Path Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/1. Rotten Oranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Root to Leaf Paths With Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Capture Regions on Board" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees II/4. Root to Leaf Paths With Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/2. Capture Regions on Board.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8. Node distance C in binary tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. Distance of nearest cell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +130,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees III (BST)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees III (BST)/8. Node distance C in binary tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/3. Distance of nearest cell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4. Black Shapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scaler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/4. Black Shapes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4. Black Shapes" />
+        <item itemvalue="Python.3. Distance of nearest cell" />
+        <item itemvalue="Python.2. Capture Regions on Board" />
+        <item itemvalue="Python.1. Rotten Oranges" />
         <item itemvalue="Python.1. Longest Consecutive Subtree" />
-        <item itemvalue="Python.8. Node distance C in binary tree" />
-        <item itemvalue="Python.1. Least Common Ancestor" />
-        <item itemvalue="Python.4. Root to Leaf Paths With Sum" />
-        <item itemvalue="Python.3. Path Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +271,8 @@
       <workItem from="1613279785433" duration="16216000" />
       <workItem from="1613368699495" duration="6290000" />
       <workItem from="1613454435275" duration="4023000" />
-      <workItem from="1613539688521" duration="7683000" />
+      <workItem from="1613539688521" duration="7867000" />
+      <workItem from="1613623589263" duration="6141000" />
     </task>
     <servers />
   </component>
@@ -352,6 +351,7 @@
     <SUITE FILE_PATH="coverage/Scaler$test.coverage" NAME="test Coverage Results" MODIFIED="1610475150753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$repeat.coverage" NAME="repeat Coverage Results" MODIFIED="1612435225077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$3__Longest_Consecutive_Sequence.coverage" NAME="3. Longest Consecutive Sequence Coverage Results" MODIFIED="1612984414550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
+    <SUITE FILE_PATH="coverage/Scaler$2__Capture_Regions_on_Board.coverage" NAME="2. Capture Regions on Board Coverage Results" MODIFIED="1613671821403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$6__Longest_Subarray_Sum_B.coverage" NAME="6. Longest Subarray Sum B Coverage Results" MODIFIED="1613032068661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Rotated_Sorted_Array_Search.coverage" NAME="4. Rotated Sorted Array Search Coverage Results" MODIFIED="1612445285411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Array_Quadruplet.coverage" NAME="1. Array Quadruplet Coverage Results" MODIFIED="1612962767236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pramp" />
@@ -375,6 +375,7 @@
     <SUITE FILE_PATH="coverage/Scaler$10__Find_pairs_in_array_whose_sum_is_already_present.coverage" NAME="10. Find pairs in array whose sum is already present Coverage Results" MODIFIED="1613036578311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Largest_Number.coverage" NAME="4. Largest Number Coverage Results" MODIFIED="1612805562212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Non_Zero_Digits.coverage" NAME="1. Non Zero Digits Coverage Results" MODIFIED="1612089057415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
+    <SUITE FILE_PATH="coverage/Scaler$1__Rotten_Oranges.coverage" NAME="1. Rotten Oranges Coverage Results" MODIFIED="1613667165819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Edit_Distance.coverage" NAME="4. Edit Distance Coverage Results" MODIFIED="1609485633027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$3__Reverse_a_stack_using_recursion.coverage" NAME="3. Reverse a stack using recursion Coverage Results" MODIFIED="1613238044317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks II" />
     <SUITE FILE_PATH="coverage/Scaler$3__Word_break.coverage" NAME="3. Word break Coverage Results" MODIFIED="1611065250660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
@@ -393,6 +394,7 @@
     <SUITE FILE_PATH="coverage/Scaler$3__Best_Time_to_Buy_and_Sell_Stocks_I.coverage" NAME="3. Best Time to Buy and Sell Stocks I Coverage Results" MODIFIED="1611334145241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VI" />
     <SUITE FILE_PATH="coverage/Scaler$3__Travelling_Saleman_Problem.coverage" NAME="3. Travelling Saleman Problem Coverage Results" MODIFIED="1611760648094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VIII (BITMASK-II)" />
     <SUITE FILE_PATH="coverage/Scaler$3__Radix_Sort.coverage" NAME="3. Radix Sort Coverage Results" MODIFIED="1612791955974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
+    <SUITE FILE_PATH="coverage/Scaler$3__Distance_of_nearest_cell.coverage" NAME="3. Distance of nearest cell Coverage Results" MODIFIED="1613671863556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$3__Order_them.coverage" NAME="3. Order them Coverage Results" MODIFIED="1613214057801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks" />
     <SUITE FILE_PATH="coverage/Scaler$1__Sub_array_with_0_sum.coverage" NAME="1. Sub-array with 0 sum Coverage Results" MODIFIED="1612977495664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$1__All_the_permutations.coverage" NAME="1. All the permutations Coverage Results" MODIFIED="1611596441868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VII (Bitmask)" />
