@@ -11,11 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph/Graph I/1. Rotten Oranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph I/2. Capture Regions on Board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph I/3. Distance of nearest cell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph I/4. Black Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph I/6. Shortest Distance in a Maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph I/7. Number of islands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/1. Dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/2. Floyd Warshall Algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/3. Minimum Weighted Cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/4. Shortest Distance in a graph with two different weights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/5. Smallest sequence with given Primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/6. First Depth First Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph II/7. Knight On Chess Board.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Graph I/5. Smallest Multiple With 0 and 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/Graph I/5. Smallest Multiple With 0 and 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +61,8 @@
       <recent name="$PROJECT_DIR$/Stacks/Stacks I" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4. Black Shapes">
-    <configuration name="1. Longest Consecutive Subtree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.7. Knight On Chess Board">
+    <configuration name="1. Dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,12 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/Trees IV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Trees IV/1. Longest Consecutive Subtree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph II/1. Dijkstra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. Rotten Oranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. Minimum Weighted Cycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/1. Rotten Oranges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph II/3. Minimum Weighted Cycle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Capture Regions on Board" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Shortest Distance in a graph with two different weights" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/2. Capture Regions on Board.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph II/4. Shortest Distance in a graph with two different weights.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Distance of nearest cell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6. First Depth First Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/3. Distance of nearest cell.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph II/6. First Depth First Search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Black Shapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7. Knight On Chess Board" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph I/4. Black Shapes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph II/7. Knight On Chess Board.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4. Black Shapes" />
-        <item itemvalue="Python.3. Distance of nearest cell" />
-        <item itemvalue="Python.2. Capture Regions on Board" />
-        <item itemvalue="Python.1. Rotten Oranges" />
-        <item itemvalue="Python.1. Longest Consecutive Subtree" />
+        <item itemvalue="Python.7. Knight On Chess Board" />
+        <item itemvalue="Python.6. First Depth First Search" />
+        <item itemvalue="Python.4. Shortest Distance in a graph with two different weights" />
+        <item itemvalue="Python.3. Minimum Weighted Cycle" />
+        <item itemvalue="Python.1. Dijkstra" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +278,8 @@
       <workItem from="1613368699495" duration="6290000" />
       <workItem from="1613454435275" duration="4023000" />
       <workItem from="1613539688521" duration="7867000" />
-      <workItem from="1613623589263" duration="6141000" />
+      <workItem from="1613623589263" duration="6504000" />
+      <workItem from="1613709865730" duration="9732000" />
     </task>
     <servers />
   </component>
@@ -294,6 +301,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Scaler$2__Palindromic_Beauty.coverage" NAME="2. Palindromic Beauty Coverage Results" MODIFIED="1612091533493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
     <SUITE FILE_PATH="coverage/Scaler$4__Root_to_Leaf_Paths_With_Sum.coverage" NAME="4. Root to Leaf Paths With Sum Coverage Results" MODIFIED="1613376454589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees II" />
+    <SUITE FILE_PATH="coverage/Scaler$4__Black_Shapes.coverage" NAME="4. Black Shapes Coverage Results" MODIFIED="1613672980666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$8__kth_character_in_double_decrypted_string.coverage" NAME="8. kth character in double decrypted string Coverage Results" MODIFIED="1613305142653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Count_of_pairs_with_the_given_sum.coverage" NAME="1. Count of pairs with the given sum Coverage Results" MODIFIED="1612933788362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Pointer" />
     <SUITE FILE_PATH="coverage/Scaler$4__Let_s_Party.coverage" NAME="4. Let's Party Coverage Results" MODIFIED="1609248526626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
@@ -307,6 +315,7 @@
     <SUITE FILE_PATH="coverage/Scaler$1__Longest_Substring_Without_Repeat.coverage" NAME="1. Longest Substring Without Repeat Coverage Results" MODIFIED="1613045259367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing II/2. Hashing + Sliding Window" />
     <SUITE FILE_PATH="coverage/Scaler$5__Max_Sum_Path_in_Binary_Tree.coverage" NAME="5. Max Sum Path in Binary Tree Coverage Results" MODIFIED="1610784828407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
     <SUITE FILE_PATH="coverage/Scaler$7__Gcd_Ordering.coverage" NAME="7. Gcd Ordering Coverage Results" MODIFIED="1612886907102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
+    <SUITE FILE_PATH="coverage/Scaler$1__Dijkstra.coverage" NAME="1. Dijkstra Coverage Results" MODIFIED="1613755095248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph II" />
     <SUITE FILE_PATH="coverage/Scaler$8__Sum_the_Difference.coverage" NAME="8. Sum the Difference Coverage Results" MODIFIED="1612864320005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$7__Min_Sum_Path_in_Triangle.coverage" NAME="7. Min Sum Path in Triangle Coverage Results" MODIFIED="1610557781159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$5__INVERSIONS.coverage" NAME="5. INVERSIONS Coverage Results" MODIFIED="1612809851935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
@@ -327,16 +336,19 @@
     <SUITE FILE_PATH="coverage/Scaler$7__Anagrams.coverage" NAME="7. Anagrams Coverage Results" MODIFIED="1613033473910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Palindrome_Pairs.coverage" NAME="1. Palindrome Pairs Coverage Results" MODIFIED="1613059368046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing II/1. Hashing + Strings" />
     <SUITE FILE_PATH="coverage/Scaler$3__Min_Sum_Path_in_Matrix.coverage" NAME="3. Min Sum Path in Matrix Coverage Results" MODIFIED="1609436824023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
+    <SUITE FILE_PATH="coverage/Scaler$2__Floyd_Warshall_Algorithm.coverage" NAME="2. Floyd Warshall Algorithm Coverage Results" MODIFIED="1613754484828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph II" />
     <SUITE FILE_PATH="coverage/Scaler$5__Smallest_sequence_with_given_Primes.coverage" NAME="5. Smallest sequence with given Primes Coverage Results" MODIFIED="1612952353994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Pointer" />
     <SUITE FILE_PATH="coverage/Scaler$1__Remove_trees.coverage" NAME="1. Remove trees Coverage Results" MODIFIED="1610629169088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
     <SUITE FILE_PATH="coverage/Scaler$3__Element_Selection.coverage" NAME="3. Element Selection Coverage Results" MODIFIED="1611584911275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VII (Bitmask)" />
     <SUITE FILE_PATH="coverage/Scaler$8__Ways_to_Decode.coverage" NAME="8. Ways to Decode Coverage Results" MODIFIED="1609518253555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$3__Matrix_Median.coverage" NAME="3. Matrix Median Coverage Results" MODIFIED="1612441567812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
+    <SUITE FILE_PATH="coverage/Scaler$5__Smallest_Multiple_With_0_and_1.coverage" NAME="5. Smallest Multiple With 0 and 1 Coverage Results" MODIFIED="1613743236058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Gas_Station.coverage" NAME="4. Gas Station Coverage Results" MODIFIED="1613308935084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks &amp; Queues" />
     <SUITE FILE_PATH="coverage/Scaler$9__Regular_Expression_II.coverage" NAME="9. Regular Expression II Coverage Results" MODIFIED="1609651394256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$2__Regular_Expression_Match.coverage" NAME="2. Regular Expression Match Coverage Results" MODIFIED="1609435559561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$7__Longest_Balanced_Substring.coverage" NAME="7. Longest Balanced Substring Coverage Results" MODIFIED="1609348540202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$6__Unique_Binary_Search_Trees_II.coverage" NAME="6. Unique Binary Search Trees II Coverage Results" MODIFIED="1610790307782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IV" />
+    <SUITE FILE_PATH="coverage/Scaler$6__First_Depth_First_Search.coverage" NAME="6. First Depth First Search Coverage Results" MODIFIED="1613760571853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph II" />
     <SUITE FILE_PATH="coverage/Scaler$2__Smallest_Good_Base.coverage" NAME="2. Smallest Good Base Coverage Results" MODIFIED="1612506073072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
     <SUITE FILE_PATH="coverage/Scaler$7__Maximum_height_of_staircase.coverage" NAME="7. Maximum height of staircase Coverage Results" MODIFIED="1612535444632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Insertion_Sort.coverage" NAME="1. Insertion Sort Coverage Results" MODIFIED="1612543231804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
@@ -368,6 +380,8 @@
     <SUITE FILE_PATH="coverage/Scaler$Unittests_in_new_py.coverage" NAME="Unittests in new.py Coverage Results" MODIFIED="1612544434769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$2__Count_Right_Triangles.coverage" NAME="2. Count Right Triangles Coverage Results" MODIFIED="1613059371038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing II/3. Hashing + Maths" />
     <SUITE FILE_PATH="coverage/Scaler$8__Coin_Sum_Infinite.coverage" NAME="8. Coin Sum Infinite Coverage Results" MODIFIED="1610560234061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
+    <SUITE FILE_PATH="coverage/Scaler$4__Shortest_Distance_in_a_graph_with_two_different_weights.coverage" NAME="4. Shortest Distance in a graph with two different weights Coverage Results" MODIFIED="1613759911732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph II" />
+    <SUITE FILE_PATH="coverage/Scaler$7__Knight_On_Chess_Board.coverage" NAME="7. Knight On Chess Board Coverage Results" MODIFIED="1613760593680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph II" />
     <SUITE FILE_PATH="coverage/Scaler$6__Dungeon_Princess.coverage" NAME="6. Dungeon Princess Coverage Results" MODIFIED="1610456762193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP III" />
     <SUITE FILE_PATH="coverage/Scaler$1__Largest_Rectangle_in_Histogram.coverage" NAME="1. Largest Rectangle in Histogram Coverage Results" MODIFIED="1613235913340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Rain_Water_Trapped.coverage" NAME="1. Rain Water Trapped Coverage Results" MODIFIED="1613308905245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks &amp; Queues" />
@@ -375,6 +389,7 @@
     <SUITE FILE_PATH="coverage/Scaler$10__Find_pairs_in_array_whose_sum_is_already_present.coverage" NAME="10. Find pairs in array whose sum is already present Coverage Results" MODIFIED="1613036578311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Largest_Number.coverage" NAME="4. Largest Number Coverage Results" MODIFIED="1612805562212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting I" />
     <SUITE FILE_PATH="coverage/Scaler$1__Non_Zero_Digits.coverage" NAME="1. Non Zero Digits Coverage Results" MODIFIED="1612089057415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
+    <SUITE FILE_PATH="coverage/Scaler$3__Minimum_Weighted_Cycle.coverage" NAME="3. Minimum Weighted Cycle Coverage Results" MODIFIED="1613757185306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph II" />
     <SUITE FILE_PATH="coverage/Scaler$1__Rotten_Oranges.coverage" NAME="1. Rotten Oranges Coverage Results" MODIFIED="1613667165819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Edit_Distance.coverage" NAME="4. Edit Distance Coverage Results" MODIFIED="1609485633027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$3__Reverse_a_stack_using_recursion.coverage" NAME="3. Reverse a stack using recursion Coverage Results" MODIFIED="1613238044317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks II" />
@@ -389,6 +404,7 @@
     <SUITE FILE_PATH="coverage/Scaler$8__Node_distance_C_in_binary_tree.coverage" NAME="8. Node distance C in binary tree Coverage Results" MODIFIED="1613577300886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees III (BST)" />
     <SUITE FILE_PATH="coverage/Scaler$5__Longest_Common_Subsequence.coverage" NAME="5. Longest Common Subsequence Coverage Results" MODIFIED="1609491224470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$7__Search_for_a_Range.coverage" NAME="7. Search for a Range Coverage Results" MODIFIED="1612524888503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
+    <SUITE FILE_PATH="coverage/Scaler$7__Number_of_islands.coverage" NAME="7. Number of islands Coverage Results" MODIFIED="1613715048697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$5__Count_of_smaller_numbers_after_self.coverage" NAME="5. Count of smaller numbers after self Coverage Results" MODIFIED="1612873818901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
     <SUITE FILE_PATH="coverage/Scaler$2__Min_Jumps_Array.coverage" NAME="2. Min Jumps Array Coverage Results" MODIFIED="1609260955697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$3__Best_Time_to_Buy_and_Sell_Stocks_I.coverage" NAME="3. Best Time to Buy and Sell Stocks I Coverage Results" MODIFIED="1611334145241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP VI" />
@@ -407,6 +423,7 @@
     <SUITE FILE_PATH="coverage/Scaler$5__Shortest_common_supersequence.coverage" NAME="5. Shortest common supersequence Coverage Results" MODIFIED="1611162389483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
     <SUITE FILE_PATH="coverage/Scaler$2__Single_Element_in_a_Sorted_Array.coverage" NAME="2. Single Element in a Sorted Array Coverage Results" MODIFIED="1612439363340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Maximum_Rectangle.coverage" NAME="4. Maximum Rectangle Coverage Results" MODIFIED="1613280139832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks II" />
+    <SUITE FILE_PATH="coverage/Scaler$6__Shortest_Distance_in_a_Maze.coverage" NAME="6. Shortest Distance in a Maze Coverage Results" MODIFIED="1613714387157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Palindrome_Partitioning_II.coverage" NAME="4. Palindrome Partitioning II Coverage Results" MODIFIED="1611076085657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
     <SUITE FILE_PATH="coverage/Scaler$4__Maximum_Frequency_stack.coverage" NAME="4. Maximum Frequency stack Coverage Results" MODIFIED="1613221250036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks" />
     <SUITE FILE_PATH="coverage/Scaler$6__Container_With_Most_Water.coverage" NAME="6. Container With Most Water Coverage Results" MODIFIED="1612964921923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Pointer" />
