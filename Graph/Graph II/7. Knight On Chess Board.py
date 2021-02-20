@@ -11,8 +11,8 @@ class Solution:
         if E > A or F > B: return -1
         graph = [[-1 for _ in range(B)] for _ in range(A)]
         q = deque()
-        q.append((C-1, D-1, 0))
-        graph[C-1][D-1] = 0
+        q.append((C - 1, D - 1, 0))
+        graph[C - 1][D - 1] = 0
         row = [-1, 1, -2, 2, -2, 2, -1, 1]
         col = [-2, -2, -1, -1, 1, 1, 2, 2]
         while q:
@@ -22,10 +22,9 @@ class Solution:
                 nCol = j + c
                 if self.isValid(graph, nRow, nCol) and graph[nRow][nCol] == -1:
                     graph[nRow][nCol] = k + 1
-                    q.append((nRow, nCol, k+1))
+                    q.append((nRow, nCol, k + 1))
 
-        return graph[E-1][F-1]
-
+        return graph[E - 1][F - 1]
 
 
 if __name__ == '__main__':
