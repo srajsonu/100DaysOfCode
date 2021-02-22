@@ -11,15 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="959e13df-36a6-4a6a-afcb-a636389f2874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph/Graph III/7. Good Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph III/8. King Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/0. Topological Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/1. Possibility of Finishing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/2. Tournament Winners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/3. Xor tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/1. PCM Dilemma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/2. Memcached Service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/4. Minimum cost to visit the museum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/5. Rook Movement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph IV/6. Shortest Distance from All Buildings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Graph IV/2. Tournament Winners.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/Graph IV/2. Tournament Winners.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,29 +55,7 @@
       <recent name="$PROJECT_DIR$/Stacks/Stacks I" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Possibility of Finishing">
-    <configuration name="0. Topological Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Scaler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph IV" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph IV/0. Topological Sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.5. Rook Movement">
     <configuration name="1. Possibility of Finishing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Xor tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Tournament Winners" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph IV/3. Xor tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph IV/2. Tournament Winners.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8. King Graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Minimum cost to visit the museum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scaler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +130,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph III" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph IV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph III/8. King Graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph IV/4. Minimum cost to visit the museum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5. Rook Movement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scaler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Graph IV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Graph IV/5. Rook Movement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5. Rook Movement" />
+        <item itemvalue="Python.4. Minimum cost to visit the museum" />
+        <item itemvalue="Python.2. Tournament Winners" />
         <item itemvalue="Python.1. Possibility of Finishing" />
         <item itemvalue="Python.2. Memcached Service" />
-        <item itemvalue="Python.3. Xor tree" />
-        <item itemvalue="Python.0. Topological Sort" />
-        <item itemvalue="Python.8. King Graph" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +275,8 @@
       <workItem from="1613623589263" duration="6504000" />
       <workItem from="1613709865730" duration="10060000" />
       <workItem from="1613793475699" duration="11275000" />
-      <workItem from="1613881411722" duration="7825000" />
+      <workItem from="1613881411722" duration="7968000" />
+      <workItem from="1613970504654" duration="8575000" />
     </task>
     <servers />
   </component>
@@ -379,6 +376,7 @@
     <SUITE FILE_PATH="coverage/Scaler$11__Maximum_Sum.coverage" NAME="11. Maximum Sum Coverage Results" MODIFIED="1609677458806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$8__Minimum_Difference.coverage" NAME="8. Minimum Difference Coverage Results" MODIFIED="1612539011831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching I" />
     <SUITE FILE_PATH="coverage/Scaler$6__Longest_valid_Parentheses.coverage" NAME="6. Longest valid Parentheses Coverage Results" MODIFIED="1613324201513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stacks/Stacks &amp; Queues" />
+    <SUITE FILE_PATH="coverage/Scaler$2__Tournament_Winners.coverage" NAME="2. Tournament Winners Coverage Results" MODIFIED="1613972861840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph IV" />
     <SUITE FILE_PATH="coverage/Scaler$3__Double_Sum.coverage" NAME="3. Double Sum Coverage Results" MODIFIED="1612089655070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP IX (Digit DP)" />
     <SUITE FILE_PATH="coverage/Scaler$1__Possibility_of_Finishing.coverage" NAME="1. Possibility of Finishing Coverage Results" MODIFIED="1613926298435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph IV" />
     <SUITE FILE_PATH="coverage/Scaler$2__Evaluate_Expression_To_True.coverage" NAME="2. Evaluate Expression To True Coverage Results" MODIFIED="1611160076868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP V" />
@@ -402,11 +400,13 @@
     <SUITE FILE_PATH="coverage/Scaler$5__Parity_Queries.coverage" NAME="5. Parity Queries Coverage Results" MODIFIED="1613024533227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing/Hashing I" />
     <SUITE FILE_PATH="coverage/Scaler$7__Distinct_Subsequences.coverage" NAME="7. Distinct Subsequences Coverage Results" MODIFIED="1609517905750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$5__Max_Sum_Without_Adjacent_Elements.coverage" NAME="5. Max Sum Without Adjacent Elements Coverage Results" MODIFIED="1609262057247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
+    <SUITE FILE_PATH="coverage/Scaler$4__Minimum_cost_to_visit_the_museum.coverage" NAME="4. Minimum cost to visit the museum Coverage Results" MODIFIED="1613979142846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph IV" />
     <SUITE FILE_PATH="coverage/Scaler$3__Ways_to_Decode.coverage" NAME="3. Ways to Decode Coverage Results" MODIFIED="1609257886070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$1__merge_sort.coverage" NAME="1. merge sort Coverage Results" MODIFIED="1612799062153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting/Sorting II" />
     <SUITE FILE_PATH="coverage/Scaler$8__Max_Product_Subarray.coverage" NAME="8. Max Product Subarray Coverage Results" MODIFIED="1609351569422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP I" />
     <SUITE FILE_PATH="coverage/Scaler$4__Minimize_the_absolute_difference.coverage" NAME="4. Minimize the absolute difference Coverage Results" MODIFIED="1612948984566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Pointer" />
     <SUITE FILE_PATH="coverage/Scaler$8__Node_distance_C_in_binary_tree.coverage" NAME="8. Node distance C in binary tree Coverage Results" MODIFIED="1613577300886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees/Trees III (BST)" />
+    <SUITE FILE_PATH="coverage/Scaler$5__Rook_Movement.coverage" NAME="5. Rook Movement Coverage Results" MODIFIED="1614007391299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph IV" />
     <SUITE FILE_PATH="coverage/Scaler$5__Longest_Common_Subsequence.coverage" NAME="5. Longest Common Subsequence Coverage Results" MODIFIED="1609491224470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming/DP II" />
     <SUITE FILE_PATH="coverage/Scaler$7__Good_Graph.coverage" NAME="7. Good Graph Coverage Results" MODIFIED="1613900681991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph/Graph III" />
     <SUITE FILE_PATH="coverage/Scaler$7__Search_for_a_Range.coverage" NAME="7. Search for a Range Coverage Results" MODIFIED="1612524888503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Searching/Searching II" />
