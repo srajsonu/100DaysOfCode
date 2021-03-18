@@ -31,10 +31,10 @@ class Solution:
                 if i + j < n:
                     dp[i] = min(dp[i], 1 + dp[j])
 
-        return dp[0]
+        return dp
 
 if __name__ == '__main__':
-    A = [2, 1, 1]
+    A = [2,3,1,1,4]
     B = Solution()
     print(B.jump(A))
     print(B.solve(A))

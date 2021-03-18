@@ -32,15 +32,16 @@ class Solution:
 
     def solve(self, A, B):
         graph = defaultdict(list)
+        inDegree = [0 for _ in range(A)]
 
         for i, j in B:
             graph[i].append(j)
+            inDegree[j] += 1
 
-        inDegree = [0 for _ in range(A)]
 
-        for i in graph:
-            for j in graph[i]:
-                inDegree[j] += 1
+        # for i in graph:
+        #     for j in graph[i]:
+        #         inDegree[j] += 1
 
         q = deque()
         for i in range(A):
